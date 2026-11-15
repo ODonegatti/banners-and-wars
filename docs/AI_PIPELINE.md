@@ -53,7 +53,7 @@ pip install torch onnx numpy pandas
 python scripts/generate_dataset.py --samples 50000 --out data/villager_decisions.csv
 
 # 3. Treinar o modelo PyTorch e exportar para ONNX
-python scripts/train_and_export.py --epochs 40 --out ../src/main/resources/assets/realmsandhorns/models/villager_brain.onnx
+python scripts/train_and_export.py --epochs 40 --out ../src/main/resources/assets/bannersandwars/models/villager_brain.onnx
 ```
 
 * **Performance esperada:** O arquivo `.onnx` final pesa **menos de 25 KB** e executa **1.000 inferências em ~12 milissegundos** na CPU do servidor.

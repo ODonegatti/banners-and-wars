@@ -1,11 +1,11 @@
-# AGENTS.md — Realms & Horns (Minecraft 1.20.1 Forge)
+# AGENTS.md — Banners & Wars (Minecraft 1.20.1 Forge)
 
 > **Propósito deste arquivo:** Este documento define o contexto arquitetural, padrões de engenharia, restrições de hardware e regras de fluxo de trabalho para agentes de IA compartilhados e desenvolvedores (Tech Lead + Estagiários) atuando neste repositório.
 
 ---
 
 ## 1. Visão Geral do Projeto
-* **Nome do Mod Core:** `realmsandhorns` (Modpack: *Realms & Horns*)
+* **Nome do Mod Core:** `bannersandwars` (Modpack: *Banners & Wars*)
 * **Plataforma:** Minecraft Java Edition **1.20.1** | Modloader: **Minecraft Forge (47.3.x)** | Java: **17 (Eclipse Temurin)**
 * **Objetivo:** Transformar vilas em civilizações medievais autônomas com magia, economia baseada em armazéns, exploração, diplomacia e guerras em escala comandadas em primeira pessoa por meio de **Chifres de Cabra**.
 * **Restrições Críticas de Ambiente:**
@@ -50,7 +50,7 @@ Todo agente inteligente (`KingdomVillagerEntity`) possui um `VillagerBrain` comp
 ## 4. Convenções de Código e Estrutura de Pacotes
 
 ```text
-src/main/java/com/mojang/realmsandhorns/
+src/main/java/com/mojang/bannersandwars/
 ├── core/           # Registro de blocos, itens, entidades, redes e eventos Forge
 ├── ai/
 │   ├── brain/      # Os 5 módulos cognitivos e ActionIntents

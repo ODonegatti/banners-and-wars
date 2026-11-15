@@ -1,7 +1,7 @@
-# GDD — Realms & Horns (Game Design Document)
+# GDD — Banners & Wars (Game Design Document)
 
 ## 1. Conceito Central (High Concept)
-**Realms & Horns** transforma o Minecraft em um simulador vivo de civilizações medievais com fantasia arcana. Vilas deixam de ser estruturas estáticas e passam a ser organismos econômicos e sociais operados por villagers dotados de redes neurais locais, memórias persistentes, relações familiares e ambições políticas. O jogador pode reivindicar uma vila com seu estandarte pessoal, expandir seu território até formar um reino de 100 chunks, gerenciar cadeias produtivas e liderar exércitos em primeira pessoa usando **Chifres de Cabra**.
+**Banners & Wars** transforma o Minecraft em um simulador vivo de civilizações medievais com fantasia arcana. Vilas deixam de ser estruturas estáticas e passam a ser organismos econômicos e sociais operados por villagers dotados de redes neurais locais, memórias persistentes, relações familiares e ambições políticas. O jogador pode reivindicar uma vila com seu estandarte pessoal, expandir seu território até formar um reino de 100 chunks, gerenciar cadeias produtivas e liderar exércitos em primeira pessoa usando **Chifres de Cabra**.
 
 ---
 

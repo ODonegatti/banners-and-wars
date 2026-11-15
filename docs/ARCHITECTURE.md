@@ -34,7 +34,7 @@ Para garantir **20 TPS** em servidores gratuitos (Oracle Cloud ARM) e clientes c
 
 ## 2. Persistência Híbrida (SQLite + Nitrite DB)
 
-Os arquivos do banco são salvos dentro da pasta do mundo: `<world_folder>/realmsandhorns_data/`.
+Os arquivos do banco são salvos dentro da pasta do mundo: `<world_folder>/bannersandwars_data/`.
 
 ### 2.1. Banco Relacional (`kingdoms.db` via SQLite JDBC)
 Armazena integridade referencial, inventários, posse territorial e genealogia.
@@ -127,7 +127,7 @@ Armazena documentos flexíveis e de leitura rápida por UUID do villager, sem ne
 
 ---
 
-## 3. Protocolo de Rede Customizado (`RealmsNetwork`)
+## 3. Protocolo de Rede Customizado (`BannersNetwork`)
 
 Todos os pacotes usam `SimpleChannel` do Forge com serialização compacta:
 

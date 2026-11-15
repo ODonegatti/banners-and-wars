@@ -1,6 +1,6 @@
 # COMMIT_CONVENTION.md — Guia de Commits e Versionamento
 
-Este documento define o padrão de mensagens de commit adotado no projeto **Realms & Horns**, baseado na especificação internacional **[Conventional Commits v1.0.0](https://www.conventionalcommits.org/)**.
+Este documento define o padrão de mensagens de commit adotado no projeto **Banners & Wars**, baseado na especificação internacional **[Conventional Commits v1.0.0](https://www.conventionalcommits.org/)**.
 
 Todos os membros da equipe (Tech Lead, Desenvolvedores e Agentes de IA) devem seguir estritamente estas diretrizes.
 
